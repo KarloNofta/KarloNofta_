@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+p {
+color: blue;
+font-family: Constantia, Georgia,;
+font-size: 25px;
+line-height: 23px;
+width: 600px;
+background-color: grey;
+padding: 15px;
+} I
+h1, h2 {
+font-family: Gotham,, Helvetica, Arial;
+color: cadetblue;
+}
+span {color: rgb(47, 43, 117);}
+body {
+background-image: url("slike/2.jpg");
+background-color: darkcyan;
+}
+a:link {
+color: black;
+background-color: white;
+padding: 8px;
+line-height: 35px;
+border:1px solid #000000;
+}
+a:hover{
+background-color: darkgray;
+}
